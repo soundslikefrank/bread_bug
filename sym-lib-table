@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DKM10E-12)(type Legacy)(uri ${KIPRJMOD}/models/DKM10E-12.lib)(options "")(descr ""))
+)

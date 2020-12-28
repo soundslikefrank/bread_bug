@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name SilkScreenLogos)(type KiCad)(uri ${KIPRJMOD}/SilkScreenLogos.pretty)(options "")(descr ""))
+  (lib (name DKME10E-12)(type KiCad)(uri ${KIPRJMOD}/models/DKME10E-12.pretty)(options "")(descr ""))
 )
